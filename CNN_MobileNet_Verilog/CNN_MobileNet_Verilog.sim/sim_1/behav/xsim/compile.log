@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/RAMtoMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memorywork
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/border.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module border
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/conv_DW.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conv_DW
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/conv_PW.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conv_PW
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/conv_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conv_TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/database_pixel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module database_pixel
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/database_weight.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module database_weight
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/memotywork.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addressRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/dongj/CNN_Project/CNN_MobileNet_Verilog/CNN_MobileNet_Verilog.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

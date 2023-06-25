@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../RAM.v" \
+"../../../../RAMtoMEM.v" \
+"../../../../TOP.v" \
+"../../../../border.v" \
+"../../../../conv_DW.v" \
+"../../../../conv_PW.v" \
+"../../../../conv_TOP.v" \
+"../../../../database_pixel.v" \
+"../../../../database_weight.v" \
+"../../../../memotywork.v" \
+"../../../../testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
